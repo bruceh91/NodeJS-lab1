@@ -1,0 +1,11 @@
+{
+  "name": "node-js-lab1",
+  "version": "1.0.0",
+  "description": "lab 1 for module 4",
+  "main": "server/server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Bruce Harris",
+  "license": "ISC"
+}
